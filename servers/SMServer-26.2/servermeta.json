@@ -1,10 +1,10 @@
 {
   "$schema": "file:///D:/ChurooProject/churoomc_data/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.8",
-    "name": "살맛나는 세상 (Minecraft 26.2)",
-    "description": "살맛나는 세상 Minecraft 26.2 (Fabric)",
-    "icon": "",
+    "version": "2.0.0",
+    "name": "LTWServer (Minecraft 26.2)",
+    "description": "LTWServer Running Minecraft 26.2 (Fabric v0.19.5)",
+    "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
     "address": "churoo.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -17,13 +17,13 @@
   "fabric": {
     "version": "0.19.5"
   },
-  "untrackedFiles": [ {
-    "appliesTo": ["files"],
-    "patterns": [
-      "options.txt",
-      "servers.dat",
-      "servers.dat_old"
-    ]
-  }
+  "untrackedFiles": [	{
+		"appliesTo": ["files"],
+		"patterns": [
+		  "options.txt",
+		  "servers.dat",
+		  "servers.dat_old"
+		]
+	}
   ]
 }

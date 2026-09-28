@@ -9,10 +9,10 @@
   "servers": [
     {
       "id": "SMServer-26.2",
-      "name": "살맛나는 세상 (Minecraft 26.2)",
-      "description": "살맛나는 세상 Minecraft 26.2 (Fabric)",
-      "icon": null,
-      "version": "1.0.8",
+      "name": "LTWServer (Minecraft 26.2)",
+      "description": "LTWServer Running Minecraft 26.2 (Fabric v0.19.5)",
+      "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
+      "version": "2.0.0",
       "address": "churoo.kro.kr",
       "minecraftVersion": "26.2",
       "discord": {
