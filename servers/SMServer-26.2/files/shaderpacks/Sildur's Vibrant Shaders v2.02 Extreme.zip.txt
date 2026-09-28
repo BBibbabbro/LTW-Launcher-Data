@@ -1,0 +1,2 @@
+#Mon Sep 28 17:44:04 KST 2026
+wFogDensity=0.7

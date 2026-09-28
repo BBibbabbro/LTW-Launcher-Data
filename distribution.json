@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": "1.0.8",
+=======
+  "version": "1.0.0",
+>>>>>>> 7e064a2aa9990a43b7c2e6ab4622826b7a65a1df
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +16,11 @@
       "name": "살맛나는 세상 (Minecraft 26.2)",
       "description": "살맛나는 세상 Minecraft 26.2 (Fabric)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
+<<<<<<< HEAD
       "version": "1.0.8",
+=======
+      "version": "1.0.7",
+>>>>>>> 7e064a2aa9990a43b7c2e6ab4622826b7a65a1df
       "address": "churoo.kro.kr",
       "minecraftVersion": "26.2",
       "discord": {
@@ -288,6 +296,7 @@
           }
         },
         {
+<<<<<<< HEAD
           "id": "indigo-renderer.properties",
           "name": "indigo-renderer.properties",
           "type": "File",
@@ -299,6 +308,8 @@
           }
         },
         {
+=======
+>>>>>>> 7e064a2aa9990a43b7c2e6ab4622826b7a65a1df
           "id": "ferritecore.mixin.properties",
           "name": "ferritecore.mixin.properties",
           "type": "File",
@@ -5717,6 +5728,20 @@
             "MD5": "f6ce201a9bde444260734d67ec42b4d9",
             "path": "shaderpacks/Sildur's Vibrant Shaders v2.02 Extreme.zip"
           }
+<<<<<<< HEAD
+=======
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v2.02 Extreme.zip.txt",
+          "name": "Sildur's Vibrant Shaders v2.02 Extreme.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 48,
+            "url": "https://bbibbabbro.github.io/Salmat-Launcher-Data/servers/SMServer-26.2/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v2.02%20Extreme.zip.txt",
+            "MD5": "ace3c9e2ca39cb27657c56b355b48f7d",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v2.02 Extreme.zip.txt"
+          }
+>>>>>>> 7e064a2aa9990a43b7c2e6ab4622826b7a65a1df
         }
       ]
     }
