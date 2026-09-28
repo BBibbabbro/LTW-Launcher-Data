@@ -12,7 +12,7 @@
       "name": "살맛나는 세상 (Minecraft 26.2)",
       "description": "살맛나는 세상 Minecraft 26.2 (Fabric)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "churoo.kro.kr",
       "minecraftVersion": "26.2",
       "discord": {
@@ -266,6 +266,61 @@
           }
         },
         {
+          "id": "chunksfadein.properties",
+          "name": "chunksfadein.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4137,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/chunksfadein.properties",
+            "MD5": "121fb78230a6b70cc10fa5402f6dd7ce",
+            "path": "config/chunksfadein.properties"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 2248,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/entityculling.json",
+            "MD5": "4b613a5aed83e0410c9d37c77b480d6a",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
+          "id": "ferritecore.mixin.properties",
+          "name": "ferritecore.mixin.properties",
+          "type": "File",
+          "artifact": {
+            "size": 815,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/ferritecore.mixin.properties",
+            "MD5": "d8fbc071aa2480c358ddc5636fb1d8e1",
+            "path": "config/ferritecore.mixin.properties"
+          }
+        },
+        {
+          "id": "iris-excluded.json",
+          "name": "iris-excluded.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/iris-excluded.json",
+            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+            "path": "config/iris-excluded.json"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 323,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/iris.properties",
+            "MD5": "7cd20aa55f0d89ff901f7efb77889032",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "journeymap-server.json",
           "name": "journeymap-server.json",
           "type": "File",
@@ -274,6 +329,72 @@
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/journeymap-server.json",
             "MD5": "1de3b1bd220fc2e0696e0946001baa66",
             "path": "config/journeymap-server.json"
+          }
+        },
+        {
+          "id": "modmenu.json",
+          "name": "modmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 842,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/modmenu.json",
+            "MD5": "f37fe3d4d285031ad85880cfb06cc4cb",
+            "path": "config/modmenu.json"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/sodium-fingerprint.json",
+            "MD5": "3d85bd6d26e5d21ef7c174d81bb6e0e5",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/sodium-mixins.properties",
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 743,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/sodium-options.json",
+            "MD5": "a73b2c676e2b7d75869a4e4faf046506",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "transition.json",
+          "name": "transition.json",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/transition.json",
+            "MD5": "31ba5caa4bcc56c2527e5d001e4f0f07",
+            "path": "config/transition.json"
+          }
+        },
+        {
+          "id": "trender.json",
+          "name": "trender.json",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/SMServer-26.2/files/config/trender.json",
+            "MD5": "c449ad0a8d190858ec253ed1bc75e05d",
+            "path": "config/trender.json"
           }
         },
         {
