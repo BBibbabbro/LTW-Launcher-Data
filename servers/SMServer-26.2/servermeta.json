@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///D:/ChurooProject/churoomc_data/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.8",
+    "name": "살맛나는 세상 (Minecraft 26.2)",
+    "description": "살맛나는 세상 Minecraft 26.2 (Fabric)",
+    "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
+    "address": "churoo.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.5"
+  },
+  "untrackedFiles": [ {
+    "appliesTo": ["files"],
+    "patterns": [
+      "options.txt",
+      "servers.dat",
+      "servers.dat_old"
+    ]
+  }
+  ]
+}
