@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/ChurooProject/churoomc_data/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "name": "살맛나는 세상 (Minecraft 26.2)",
     "description": "살맛나는 세상 Minecraft 26.2 (Fabric)",
     "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
