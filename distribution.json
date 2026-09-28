@@ -11,7 +11,7 @@
       "id": "SMServer-26.2",
       "name": "LTWServer (Minecraft 26.2)",
       "description": "LTWServer Running Minecraft 26.2 (Fabric v0.19.5)",
-      "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
+      "icon": "https://raw.githubusercontent.com/BBibbabbro/Salmat-Launcher-Data/main/background.png",
       "version": "2.0.0",
       "address": "churoo.kro.kr",
       "minecraftVersion": "26.2",
@@ -233,16 +233,6 @@
             "size": 2098712,
             "url": "https://github.com/BBibbabbro/servers/SMServer-26.2/fabricmods/required/punchy-2.8b-fabric-26.2.jar",
             "MD5": "482d0984ea222d9085d671609bdc1e95"
-          }
-        },
-        {
-          "id": "net.caffeinemc.mods:sodium:0.9.2+mc26.2@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1885572,
-            "url": "https://github.com/BBibbabbro/servers/SMServer-26.2/fabricmods/required/sodium-fabric-0.9.2+mc26.2.jar",
-            "MD5": "fa97af208c24e320899c00cd0cff698a"
           }
         },
         {

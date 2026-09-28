@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "name": "LTWServer (Minecraft 26.2)",
     "description": "LTWServer Running Minecraft 26.2 (Fabric v0.19.5)",
-    "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
+    "icon": "https://raw.githubusercontent.com/BBibbabbro/Salmat-Launcher-Data/main/background.png",
     "address": "churoo.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
