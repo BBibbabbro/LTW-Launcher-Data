@@ -186,16 +186,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.11.4+mc26.2@jar",
-          "name": "Iris",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2821616,
-            "url": "https://github.com/BBibbabbro/servers/SMServer-26.2/fabricmods/required/iris-fabric-1.11.4+mc26.2.jar",
-            "MD5": "267fa2e0f6994162f8dbde33d54dc2ce"
-          }
-        },
-        {
           "id": "journeymap:journeymap:26.2-6.0.9@jar",
           "name": "Journeymap",
           "type": "FabricMod",
