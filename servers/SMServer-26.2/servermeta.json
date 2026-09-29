@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/ChurooProject/churoomc_data/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "name": "LTWServer (Minecraft 26.2)",
     "description": "LTWServer Running Minecraft 26.2 (Fabric v0.19.5)",
     "icon": "https://raw.githubusercontent.com/BBibbabbro/Salmat-Launcher-Data/main/background.png",

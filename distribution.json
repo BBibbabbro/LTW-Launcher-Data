@@ -12,7 +12,7 @@
       "name": "LTWServer (Minecraft 26.2)",
       "description": "LTWServer Running Minecraft 26.2 (Fabric v0.19.5)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Salmat-Launcher-Data/main/background.png",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "address": "churoo.kro.kr",
       "minecraftVersion": "26.2",
       "discord": {
@@ -111,8 +111,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 455807,
-            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/required/chunksfadein-fabric-3.0.28-26.2.jar",
+            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/optionaloff/chunksfadein-fabric-3.0.28-26.2.jar",
             "MD5": "d1f285910458032bc6518c85e7224577"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -191,8 +195,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2821616,
-            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/required/iris-fabric-1.11.4+mc26.2.jar.disabled",
+            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/optionaloff/iris-fabric-1.11.4+mc26.2.jar.disabled",
             "MD5": "267fa2e0f6994162f8dbde33d54dc2ce"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -251,8 +259,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1885572,
-            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/required/sodium-fabric-0.9.2+mc26.2.jar",
+            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/optionaloff/sodium-fabric-0.9.2+mc26.2.jar",
             "MD5": "fa97af208c24e320899c00cd0cff698a"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
