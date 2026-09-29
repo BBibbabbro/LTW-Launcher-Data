@@ -186,6 +186,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:iris:1.11.4+mc26.2@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2821616,
+            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/required/iris-fabric-1.11.4+mc26.2.jar.disabled",
+            "MD5": "267fa2e0f6994162f8dbde33d54dc2ce"
+          }
+        },
+        {
           "id": "journeymap:journeymap:26.2-6.0.9@jar",
           "name": "Journeymap",
           "type": "FabricMod",
@@ -233,6 +243,16 @@
             "size": 2098712,
             "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/required/punchy-2.8b-fabric-26.2.jar",
             "MD5": "482d0984ea222d9085d671609bdc1e95"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.9.2+mc26.2@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1885572,
+            "url": "https://bbibbabbro.github.io/LTW-Launcher-Data/servers/SMServer-26.2/fabricmods/required/sodium-fabric-0.9.2+mc26.2.jar",
+            "MD5": "fa97af208c24e320899c00cd0cff698a"
           }
         },
         {
