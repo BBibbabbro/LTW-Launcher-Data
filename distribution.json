@@ -22,6 +22,11 @@
       },
       "mainServer": true,
       "autoconnect": true,
+      "javaOptions": {
+        "distribution": "TEMURIN",
+        "suggestedMajor": 25,
+        "supported": ">=25"
+      },
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.5",

@@ -12,18 +12,23 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": true,
+    "javaOptions": {
+      "distribution": "TEMURIN",
+      "suggestedMajor": 25,
+      "supported": ">=25"
+    }
   },
   "fabric": {
     "version": "0.19.5"
   },
-  "untrackedFiles": [	{
-		"appliesTo": ["files"],
-		"patterns": [
-		  "options.txt",
-		  "servers.dat",
-		  "servers.dat_old"
-		]
-	}
+  "untrackedFiles": [ {
+    "appliesTo": ["files"],
+    "patterns": [
+      "options.txt",
+      "servers.dat",
+      "servers.dat_old"
+    ]
+  }
   ]
 }
